@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Asad ☁️⚡</h1>
+<h1 align="center">Hello, I am Asad.</h1>
 
 <p align="center">
 Cloud Data Engineer | Building reliable, automated, and scalable data systems in the cloud.
@@ -8,11 +8,13 @@ Cloud Data Engineer | Building reliable, automated, and scalable data systems in
 
 ### 🧭 About Me
 
-I’m a Cloud Data Engineer based in the UK, working across data and infrastructure to build systems that are both powerful and maintainable.  
-I focus on **clean automation**, **secure architectures**, and **simplicity that scales**.  
-I value quiet craftsmanship — scalable systems that just work.
+I’m a UK-based **Cloud Data Engineer** specialising in **AWS**, **Databricks**, and **Terraform** — designing data platforms that are secure, automated, and built to scale.  
 
-When I’m not working with AWS or Spark, I’m usually exploring new ways to make data pipelines faster, cheaper, and easier to operate — or sharing ideas with others in the engineering community.
+I focus on **clean automation**, **secure architectures**, and **clarity in design** — delivering systems that perform reliably in production.  
+
+Certified in **Databricks Platform Architecture** and **IBM Data Analytics**, and currently advancing toward the **AWS Solutions Architect – Associate** certification.  
+
+I value **quiet craftsmanship** — building systems that just work, and scale with purpose.
 
 ---
 
