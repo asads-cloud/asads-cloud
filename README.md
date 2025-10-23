@@ -8,13 +8,11 @@ Cloud Data Engineer | Building reliable, automated, and scalable data systems in
 
 ### 🧭 About Me
 
-I’m a UK-based **Cloud Data Engineer** specialising in **AWS**, **Databricks**, and **Terraform** — designing data platforms that are secure, automated, and built to scale.  
-
-I focus on **clean automation**, **secure architectures**, and **clarity in design** — delivering systems that perform reliably in production.  
+I’m a UK-based **Cloud Data Engineer** specialising in **AWS**, **Databricks**, and **Terraform**, designing data platforms that are secure, automated, and built to scale. 
+I focus on **clean automation**, **secure architectures**, and **clarity in design**, delivering systems that perform reliably in production. I value **quiet craftsmanship**
+& building systems that just work, and scale with purpose. 
 
 Certified in **Databricks Platform Architecture** and **IBM Data Analytics**, and currently advancing toward the **AWS Solutions Architect – Associate** certification.  
-
-I value **quiet craftsmanship** — building systems that just work, and scale with purpose.
 
 ---
 
