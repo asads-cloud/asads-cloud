@@ -1,69 +1,39 @@
-<h1 align="center">Hello, I am Asad.</h1>
+<h1 align="center">👋 Hey, I’m Asad Rana</h1>
 
 <p align="center">
-Cloud Data Engineer | Building reliable, automated, and scalable data systems in the cloud.
+Cloud Engineer w/ AWS & Terraform | Specialising in Statistics, Data & Security
 </p>
 
 ---
 
-### 🧭 About Me
+###   About Me
 
-I’m a UK-based **Cloud Data Engineer** specialising in **AWS**, **Databricks**, and **Terraform**, designing data platforms that are secure, automated, and built to scale. 
-I focus on **clean automation**, **secure architectures**, and **clarity in design**, delivering systems that perform reliably in production. I value **quiet craftsmanship**
-& building systems that just work, and scale with purpose. 
+I build **reliable**, **secure**, and **automated** cloud systems.  
+Focused on AWS, Terraform, and the data layer that powers real insights.  
 
-Certified in **Databricks Platform Architecture** and **IBM Data Analytics**, and currently advancing toward the **AWS Solutions Architect – Associate** certification.  
-
----
-
-### 🧠 Tech Stack
-
-#### Languages & Core Tools
-![Python](https://img.shields.io/badge/-Python-111?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-111?logo=postgresql&logoColor=white&style=flat-square)
-![PowerShell](https://img.shields.io/badge/-PowerShell-111?logo=powershell&logoColor=white&style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-111?logo=terraform&logoColor=white&style=flat-square)
-
-#### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![Lambda](https://img.shields.io/badge/-Lambda-232F3E?logo=awslambda&logoColor=white&style=flat-square)
-![Step Functions](https://img.shields.io/badge/-Step%20Functions-232F3E?logo=aws&logoColor=white&style=flat-square)
-![Batch](https://img.shields.io/badge/-Batch-232F3E?logo=aws&logoColor=white&style=flat-square)
-![ECR](https://img.shields.io/badge/-ECR-232F3E?logo=aws&logoColor=white&style=flat-square)
-![KMS](https://img.shields.io/badge/-KMS-232F3E?logo=aws&logoColor=white&style=flat-square)
-![IAM](https://img.shields.io/badge/-IAM-232F3E?logo=aws&logoColor=white&style=flat-square)
-![CloudWatch](https://img.shields.io/badge/-CloudWatch-232F3E?logo=amazoncloudwatch&logoColor=white&style=flat-square)
-![Terraform](https://img.shields.io/badge/-Terraform-111?logo=terraform&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-111?logo=docker&logoColor=white&style=flat-square)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-111?logo=githubactions&logoColor=white&style=flat-square)
-![S3](https://img.shields.io/badge/-S3-232F3E?logo=amazons3&logoColor=white&style=flat-square)
-
-#### Data Engineering & Analytics
-![Databricks](https://img.shields.io/badge/-Databricks-111?logo=databricks&logoColor=white&style=flat-square)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-111?logo=apachespark&logoColor=white&style=flat-square)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-111?logo=apacheairflow&logoColor=white&style=flat-square)
-![Glue](https://img.shields.io/badge/-AWS%20Glue-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![Athena](https://img.shields.io/badge/-Athena-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![Lake Formation](https://img.shields.io/badge/-Lake%20Formation-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-111?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-111?logo=numpy&logoColor=white&style=flat-square)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat-square)
+I’m most interested in the point where **data engineering**, **automation**, and **security** meet.  
+Always learning, one build, one deploy, one refactor at a time.
 
 ---
 
-### 📦 Featured Projects
+###  Stack
 
-| Project | Description | Stack |
-|----------|--------------|-------|
-| [Nimbus Transcribe](https://github.com/asads-cloud/nimbus-transcribe) | Serverless transcription pipeline using AWS Lambda, Transcribe, and S3. | AWS, Lambda, Transcribe |
-| [Aero Spark](https://github.com/asads-cloud/aero-spark) | Distributed data processing and orchestration framework built with Spark and Airflow. | Spark, Airflow, Docker |
-| [Terraform Infrastructure](#) | IaC setup for data lake and compute environments. | Terraform, AWS |
+**Cloud & Infra:** AWS, Terraform, Docker, CI/CD  
+**Data & Analytics:** Databricks, Spark, Airflow, Glue, Athena  
+**Languages:** Python, SQL, PowerShell  
 
 ---
 
-### 📈 Activity
+### 🧩 Projects
 
-![Asad’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asads-cloud&theme=github-dark&hide_border=true&area=true)
+- **[Nimbus Transcribe](https://github.com/asads-cloud/nimbus-transcribe)**: A cloud-native, parallel audio transcription pipeline on AWS using OpenAI Whisper.
+- **[Nimbus Guard](https://github.com/asads-cloud/nimbus-guard)**: Multi-region AWS security scanner for misconfigurations.
+
+---
+
+### 🌱 Always Learning
+
+![Asad’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=asads-cloud&show_icons=true&hide_border=true&theme=transparent)
 
 ---
 
