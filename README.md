@@ -14,8 +14,6 @@ Focused on AWS, Terraform, and the data layer that powers real insights.
 I’m most interested in the point where **data engineering**, **automation**, and **security** meet.  
 Always learning, one build, one deploy, one refactor at a time.
 
----
-
 ###  Stack
 
 **Cloud & Infra:** AWS, Terraform, Docker, CI/CD  
