@@ -1,7 +1,7 @@
 <h1 align="center">👋 I’m Asad</h1>
 
 <p align="center">
-<strong>Cloud & Platform Engineer | AWS · Terraform · GitOps</strong>
+<strong>Cloud & Platform Engineer | AWS • Terraform • GitOps • Kubernetes • CI/CD</strong>
 </p>
 
 <p align="center">
