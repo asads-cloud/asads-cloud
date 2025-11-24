@@ -4,10 +4,6 @@
 <strong>Cloud & Platform Engineer | AWS • Terraform • GitOps • Kubernetes • CI/CD</strong>
 </p>
 
-<p align="center">
-I build secure, automated AWS platforms using Terraform, Kubernetes, and CI/CD.
-</p>
-
 ---
 
 ### About Me
